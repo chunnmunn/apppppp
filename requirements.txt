@@ -1,4 +1,4 @@
 image
-PIL
+pillow
 streamlit
 requests
